@@ -1,0 +1,11 @@
+C:\Users\mamac\source\repos\MoreSolving\obj\Debug\netcoreapp2.0\MoreSolving.csprojAssemblyReference.cache
+C:\Users\mamac\source\repos\MoreSolving\obj\Debug\netcoreapp2.0\MoreSolving.csproj.CoreCompileInputs.cache
+C:\Users\mamac\source\repos\MoreSolving\obj\Debug\netcoreapp2.0\MoreSolving.AssemblyInfoInputs.cache
+C:\Users\mamac\source\repos\MoreSolving\obj\Debug\netcoreapp2.0\MoreSolving.AssemblyInfo.cs
+C:\Users\mamac\source\repos\MoreSolving\bin\Debug\netcoreapp2.0\MoreSolving.deps.json
+C:\Users\mamac\source\repos\MoreSolving\bin\Debug\netcoreapp2.0\MoreSolving.runtimeconfig.json
+C:\Users\mamac\source\repos\MoreSolving\bin\Debug\netcoreapp2.0\MoreSolving.runtimeconfig.dev.json
+C:\Users\mamac\source\repos\MoreSolving\bin\Debug\netcoreapp2.0\MoreSolving.dll
+C:\Users\mamac\source\repos\MoreSolving\bin\Debug\netcoreapp2.0\MoreSolving.pdb
+C:\Users\mamac\source\repos\MoreSolving\obj\Debug\netcoreapp2.0\MoreSolving.dll
+C:\Users\mamac\source\repos\MoreSolving\obj\Debug\netcoreapp2.0\MoreSolving.pdb
